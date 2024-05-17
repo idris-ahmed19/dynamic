@@ -1,0 +1,70 @@
+{
+    "work": [
+        {
+            "id": "Work1",
+            "name": "Solna Stad",
+            "position": "Relief",
+            "description": "A person who takes over some job or task from another person, usually after a given period of time.",
+            "start": "September 2019",
+            "end": "September 2020"
+        },
+        {
+            "id": "Work2",
+            "name": "Tranpenad AB",
+            "position": "Warehouse Associate",
+            "description": "Order picking and packaging of medicines.",
+            "start": "May 2021",
+            "end": "August 2021"
+        },
+        {
+            "id": "Work3",
+            "name": "Randstad AB",
+            "position":"Warehouse Associate",
+            "description": "Order picking and packing of e-commerce products.",
+            "start": "May 2022",
+            "end": "July 2022"
+        },
+        {
+            "id": "Work4",
+            "name":"Tranpenad AB",
+            "position":"Warehouse Associate",
+            "description":"Order picking and packaging of medicines.",
+            "start": "June 2022",
+            "end": "December 2022" 
+        },
+        {
+            "id": "Work5",
+            "name": "Tamro Sweden AB",
+            "position":"Warehouse Associate",
+            "description":"Order picking and packaging of medicines.",
+            "start": "December 2022",
+            "end": "currently"
+        }
+    ],
+    "education": [
+        {
+            "id": "Edu1",
+            "name": "Huddingegymnasiet",
+            "position": "Naturvetenskapsprogrammet",
+            "description": "",
+            "start": "August 2017",
+            "end": "june 2020"
+        },
+        {
+            "id": "Edu2",
+            "name": "JENSEN Komvux",
+            "position": "Programmering 1 (Python)",
+            "description": "",
+            "start": "September 2022",
+            "end": "November 2022"
+        },
+        {
+            "id": "Edu3",
+            "name": "Chas Academy",
+            "position": "Full-Stack Development .NET",
+            "description": "",
+            "start": "September 2023",
+            "end": "May 2025" 
+        }
+    ]
+}
